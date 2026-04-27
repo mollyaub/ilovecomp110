@@ -7,7 +7,7 @@ layout: default
 
 ## Summary
 
-For this project, I analyzed whether COMP110 could create value for students by offering lecture livestreams or recordings. I chose this idea because the survey asked students if they thought lectures should be livestreamed, and this topic connects to accessibility, flexibility, and reviewing difficult material. I analyzed the survey data from COMP110 students, focusing on the columns for support of livestreaming, course difficulty, core pace, and student understanding. I used data utility functions to read the CSV data, convert it into column-based data, select the relevant columns, count student responses, preview the data, and create visualizations of the data.
+For this project, I analyzed whether COMP110 could create value for students by offering lecture livestreams or recordings. I chose this idea because the survey asked students if they thought lectures should be livestreamed, and this topic connects to accessibility, flexibility, and reviewing difficult material. I analyzed the survey data from COMP110 students, focusing on the columns for support of livestreaming, course difficulty, course pace, and student understanding. I used data utility functions to read the CSV data, convert it into column-based data, select the relevant columns, count student responses, preview the data, and create visualizations of the data.
 
 ## Visualizations
 
